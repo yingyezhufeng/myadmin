@@ -11,5 +11,7 @@
     day four
     day 5
     day 6
+
+    test rebase with merge message
   </body>
 </html>
